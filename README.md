@@ -1,2 +1,0 @@
-# CCPS
-Creative Engineering
